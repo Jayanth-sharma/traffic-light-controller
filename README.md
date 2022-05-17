@@ -12,13 +12,13 @@
 ## Blockdiagram:
  
  <p align="center">
-   <img src="traffic_sw_hw/diagram_sw_hw/Blockdiagram_sw_hw.jpg">
+   <img width="460" height="300"  src="traffic_sw_hw/diagram_sw_hw/Blockdiagram_sw_hw.jpg">
  </p>
 
 ## State diagram:
  
  <p align="center">
-   <img width="460" height="300" src="traffic_sw_hw/diagram_sw_hw/State diagram.jpg">
+   <img src="traffic_sw_hw/diagram_sw_hw/State diagram.jpg">
  </p>
  
 ##  Verilog code:
